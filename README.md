@@ -55,9 +55,16 @@ Alternatively, use the combined `interactTest.js` which:
 Below are some screenshots demonstrating the process:
 
 1. **Sending & Withdrawing Ether**  
+   ![Sending and Withdrawing Ether](./2send1Withdraw.png)
+
 2. **Command-Line Usage**  
+   ![Command-Line Usage](./2Send1WithdrawCmd.png)
+
 3. **Interact Script Command**  
+   ![Interact Script Command](./interactTestCmd.png)
+
 4. **Interact Script Results**  
+   ![Interact Script Results](./interactTestRes.png)
 
 ---
 
